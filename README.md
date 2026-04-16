@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://tenor.com/view/star-moon-gif-1418849048022222032" width="100%" alt="Cybersecurity Banner">
+</p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=KULDEEP%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️%20Building%20%7C%20Learning%20%7C%20Evolving" alt="Header" /></p>
 
 ## ⚡ About Me
@@ -8,9 +11,7 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 ---
 
 ---
-<p align="center">
-  <img src="https://media.tenor.com/ZxQX3iCC7_kAAAAj/cybersecurity-art-mule-yong.gif" width="100%" alt="Cybersecurity Banner">
-</p>
+
 ## 🧰 Tech Stack  
 
 <p align="center">
