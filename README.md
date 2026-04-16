@@ -2,6 +2,7 @@
 
 ## ⚡ About Me
 
+Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovative projects and learning new technologies. My interests include: 
 > *"Not just a developer — a system that evolves with every bug fixed."*
 
 
@@ -28,6 +29,18 @@
 |------------|----------|----------------|--------------|
 
 
+1. **[Project One](https://github.com/rtx-exe-666/project-one)**  
+   A brief description of the project and technologies used.
+
+2. **[Project Two](https://github.com/rtx-exe-666/project-two)**  
+   A brief description of the project and technologies used.
+
+3. **[Project Three](https://github.com/rtx-exe-666/project-three)**  
+   A brief description of the project and technologies used.
+
+Feel free to check them out and provide feedback!
+
+## Get In Touch
 
 ---
 
