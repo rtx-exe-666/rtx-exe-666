@@ -12,7 +12,7 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 ## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,postgres,vercel,aws,firebase,github,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,github" />
 </p>
 
 ---
@@ -43,15 +43,11 @@ Feel free to check them out and provide feedback!
 ---
 
 ## 📊 GitHub Analytics  
+# GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advay77&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=advay77&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtx-exe-666&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advay77&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rtx-exe-666&theme=radical)
 
 ---
 
