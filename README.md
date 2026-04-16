@@ -63,5 +63,5 @@ Feel free to check them out and provide feedback!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429& width="100%" height=100&section=footer" />
 </p>
