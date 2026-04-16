@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=KULDEEP&fontSize=80&fontColor=ffffff&desc=🕷️%2B%20Welcome%20to%20my%20Multiverse%20of%20Code!%2B%20🔐&descAlignY=65)
 
+
+
+![Typing Banner](https://github.com/romain25/animated-typing-banner/blob/master/typing.gif)
+
+
 # 👋 Welcome to My GitHub Profile!
 
 I'm **KULDEEP**, a passionate cybersecurity researcher and penetration testing enthusiast.
