@@ -59,8 +59,9 @@ Feel free to check them out and provide feedback!
 > *"Code like there's no tomorrow. Debug like you built the Matrix."*  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=100&section=footer" />
-</p>
-<p align="center">
   <img src="https://media1.tenor.com/m/1j_NceGoVqEAAAAC/banner-cakal-banner.gif" width="100%" alt="Cybersecurity Banner">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=100&section=footer" />
 </p>
