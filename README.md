@@ -2,7 +2,7 @@
 
 
 
-![Typing Banner][header](https://github.com/romain25/animated-typing-banner/blob/master/typing.gif)
+![Typing Banner](https://github.com/romain25/animated-typing-banner/blob/master/typing.gif)
 
 
 # 👋 Welcome to My GitHub Profile!
