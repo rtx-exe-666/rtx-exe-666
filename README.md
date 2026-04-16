@@ -30,14 +30,12 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 |------------|----------|----------------|--------------|
 
 
-1. **[Project One](https://github.com/rtx-exe-666/project-one)**  
+1. **[human-centric-ai](https://github.com/rtx-exe-666/human-centric-ai.git)**  
    A brief description of the project and technologies used.
 
-2. **[Project Two](https://github.com/rtx-exe-666/project-two)**  
+2. **[AutoPentestX](https://github.com/rtx-exe-666/AutoPentestX.git)**  
    A brief description of the project and technologies used.
 
-3. **[Project Three](https://github.com/rtx-exe-666/project-three)**  
-   A brief description of the project and technologies used.
 
 Feel free to check them out and provide feedback!
 
