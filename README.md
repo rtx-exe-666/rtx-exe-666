@@ -27,7 +27,7 @@ Automated Penetration Testing & Vulnerability Assessment Toolkit
 ## 🌐 Connect With Me
 
 - GitHub: [@rtx-exe-666](https://github.com/rtx-exe-666)
-- Email: [your-email@example.com]
+- Email: [kuldeep08166@gmail.com]
 
 ---
 
