@@ -35,6 +35,7 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 
 2. **[AutoPentestX](https://github.com/rtx-exe-666/AutoPentestX.git)**  
    A brief description of the project and technologies used.
+3. **[Aether](https://github.com/rtx-exe-666/Aether.git)**
 
 
 Feel free to check them out and provide feedback!
