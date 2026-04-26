@@ -35,7 +35,7 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 
 2. **[AutoPentestX](https://github.com/rtx-exe-666/AutoPentestX.git)**  
    A brief description of the project and technologies used.
-3. **[Aether](https://github.com/rtx-exe-666/Aether.git)**
+3. **[Aether-Ai](https://github.com/rtx-exe-666/Aether-Ai.git)**
    Aether is a next-generation AI language model designed
 
 
