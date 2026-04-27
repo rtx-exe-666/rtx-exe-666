@@ -37,7 +37,8 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
    A brief description of the project and technologies used.
 3. **[Aether-Ai](https://github.com/rtx-exe-666/Aether-Ai.git)**
    Aether is a next-generation AI language model designed
-
+4. **[ai-resume-generator6](https://github.com/rtx-exe-666/ai-resume-generator6.git)**
+   It helps to create resume in one click 
 
 Feel free to check them out and provide feedback!
 
