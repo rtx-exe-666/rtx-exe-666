@@ -1,9 +1,6 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=KULDEEP%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️%20Building%20%7C%20Learning%20%7C%20Evolving" alt="Header" /></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,github" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" width="48" />
-</p>
+
 ## ⚡ About Me
 
 Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovative projects and learning new technologies. My interests include: 
@@ -16,7 +13,8 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 ## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,github,render" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,github" />
+  <img src="https://cdn.worldvectorlogo.com/logos/render-2.svg" width="48" height="48" />
 </p>
 
 ---
