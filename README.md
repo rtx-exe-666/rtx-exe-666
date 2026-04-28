@@ -15,7 +15,7 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 ## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,render,github" />
 </p>
 
 ---
