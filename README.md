@@ -17,7 +17,6 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
   <img src="https://files.catbox.moe/2x4n0k.png" width="48" />
 </p>
 
-
 ---
 
 <div align="center">
