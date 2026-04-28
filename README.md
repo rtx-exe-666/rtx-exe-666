@@ -14,7 +14,7 @@ Hello! I'm **rtx-exe-666**, a passionate developer who loves working on innovati
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,github" />
-  <img src="https://files.catbox.moe/2x4n0k.png" width="48" style="margin-left: 10px;" />
+  <img src="https://files.catbox.moe/2x4n0k.png" width="48" />
 </p>
 
 ---
