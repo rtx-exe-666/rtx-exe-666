@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=KULDEEP%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️%20Building%20%7C%20Learning%20%7C%20Evolving" alt="Header" /></p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Kuldeep%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️%20Building%20%7C%20Learning%20%7C%20Evolving" alt="Header" /></p>
 
 ## ⚡ About Me
 
